@@ -82,7 +82,7 @@ document.addEventListener("DOMContentLoaded", function () {
                         howl.volume(slider.value / 100); // Update the volume
 
                         howl.seek(currentPosition); // Set the position to the saved position
-                        if (slider.value > 0) {
+                        if (slider.value > 0 || category !== "button") {
                             howl.play(); // Play the sound
                             console.log('Now Playing:', soundName);
                         }
