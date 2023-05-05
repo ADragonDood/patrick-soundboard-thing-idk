@@ -1,0 +1,7 @@
+{
+	"button": ["sad_trombone.mp3"],
+	"creatures": ["giant_snake.mp3", "giant_spider", "lion.mp3"],
+	"generic": ["barn_animals.mp3", "battlefield.mp3", "campfire.mp3", "church_bells.mp3", "desert_wind.mp3", "dungeon.mp3", "fireworks.mp3", "forest.mp3", "heavy_rain.mp3", "howling_wind.mp3", "light_rain.mp3", "nature.mp3", "tavern_busy.wav", "tavern.mp3", "tavern_3.mp3", "thunder.mp3", "thunder_2.mp3", "village.mp3", "war_drums.wav", "war_drums_2.wav", "wind.mp3"],
+	"mario": ["castle_boss.mp3"],
+	"music": ["medieval_jives.mp3", "among_us_theme.mp3"]
+}
